@@ -7,6 +7,14 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0-brightgreen)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/typescript-5.0-blue)](https://www.typescriptlang.org/)
+[![GitHub stars](https://img.shields.io/github/stars/xuk99115/prophetx?style=social)](https://github.com/xuk99115/prophetx)
+[![Twitter](https://img.shields.io/twitter/follow/ProphetX_AI?style=social)](https://twitter.com/ProphetX_AI)
+
+---
+
+## 🎬 Demo
+
+![ProphetX Demo](demo.gif)
 
 ---
 
@@ -220,6 +228,14 @@ prophetx/
 ├── docs/                     # Documentation
 └── README.md                 # This file
 ```
+
+---
+
+## ⭐ Support Us
+
+If this project helps you, please give it a star ⭐
+
+Follow us on Twitter: [@ProphetX_AI](https://twitter.com/ProphetX_AI)
 
 ---
 
